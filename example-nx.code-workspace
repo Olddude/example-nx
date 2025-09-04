@@ -1,8 +1,8 @@
 {
     "folders": [
-        { "path": "./example-nx-project", "name": "monorepo" },
-        { "path": "./example-nx-libs", "name": "libs" },
-        { "path": "./example-nx-shell", "name": "shell" },
-        { "path": "./example-nx-microfrontend", "name": "microfrontend" }
+        { "path": "./example-nx-libs" },
+        { "path": "./example-nx-shell" },
+        { "path": "./example-nx-microfrontend" }
     ]
 }
+
